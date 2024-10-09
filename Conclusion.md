@@ -14,6 +14,7 @@
 
 ### Liderazgo Tecnológico
 - Japón y China compiten de manera muy pareja en términos de participación de mercado en diferentes sectores tecnológicos.
+![Gráfico de Ejemplo](graficos/ejemplo_1.png)
 
 ## 2. Inversión en Investigación y Desarrollo (I+D)
 
