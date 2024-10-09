@@ -69,8 +69,8 @@
 - Ambos países están invirtiendo cantidades similares en I+D, pero **China** podría estar realizando inversiones más agresivas o irregulares en ciertos años, mientras que **Japón** tiene una inversión más constante.
 - A pesar de las fluctuaciones, ambos países tienen una inversión balanceada, lo que refleja un enfoque constante hacia la innovación y el desarrollo tecnológico.
 - En general, la inversión en I+D es un pilar clave para la competitividad de ambos países en el sector tecnológico.
-![Gráfico de Ejemplo](graficos/ej2a.png)
 ![Gráfico de Ejemplo](graficos/ej2h.png)
+![Gráfico de Ejemplo](graficos/ej2a.png)
 ![Gráfico de Ejemplo](graficos/ej2b.png)
 ![Gráfico de Ejemplo](graficos/ej2c.png)
 ![Gráfico de Ejemplo](graficos/ej2d.png)
