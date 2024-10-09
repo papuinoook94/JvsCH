@@ -54,6 +54,3 @@ Para realizar un Análisis Exploratorio de Datos (EDA), estableceré algunas pre
 10. **Comparación de la clasificación de innovación global con la inversión en I+D**:
     - ¿Hay una relación entre el ranking de innovación global de cada país y la cantidad invertida en I+D?
 
-## Conclusiones
-
-A medida que avancemos en el análisis de los datos, se extraerán conclusiones basadas en los resultados obtenidos. Este análisis permitirá entender mejor las dinámicas del crecimiento tecnológico en China y Japón y proporcionará información valiosa para futuras investigaciones y decisiones estratégicas.
