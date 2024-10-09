@@ -78,21 +78,27 @@
 ![Gráfico de Ejemplo](graficos/ej2f.png)
 ![Gráfico de Ejemplo](graficos/ej2g.png)
 ## 3. Relación entre la Inversión en I+D y el Número de Patentes
-- Los datos muestran un promedio de **5094 patentes** presentadas al año, con una alta variabilidad.
-- La correlación entre la inversión en I+D y el número de patentes es extremadamente baja (**0.007**), lo que sugiere que no existe una relación clara entre el dinero invertido en investigación y el número de patentes generadas.
+- Los datos muestran un promedio de 5094 patentes presentadas al año, con una alta variabilidad.
+- Exploraremos si existe una correlación entre la inversión en I+D y el número de patentes presentadas, lo que podría revelar si una mayor inversión conduce a más innovación (patentes).
+- La correlación entre la inversión en I+D y el número de patentes es extremadamente baja (0.007), lo que sugiere que no existe una relación clara entre el dinero invertido en investigación y el número de patentes generadas.
+- A pesar de la gran cantidad de inversión en I+D, no se observa una relación directa entre la inversión y el número de patentes, lo que sugiere que otros factores también influyen en la producción de patentes.
 ![Gráfico de Ejemplo](graficos/ej3.png)
 ## 4. Innovación Global
 
 ### Ranking Global de Innovación
-- El ranking global promedio es de **13.46**, con valores que varían entre **1** (mejor) y **25**.
-- Japón ocupa en promedio el puesto **9.86** y China el **10.14**, indicando que ambos están bien posicionados en la innovación mundial.
+- Ranking Global de Innovación: El ranking global promedio es de 13.46, con valores   que varían entre 1 (mejor) y 25. Esto nos permitirá analizar cómo se posicionan ambos países a nivel global.
+- Ambos países tienen un ranking similar en cuanto a innovación global, con Japón en promedio ocupando el puesto 9.86 y China el 10.14. Esto indica que ambos están bien posicionados en la innovación mundial.
+- Ambos países se encuentran en posiciones similares en términos de innovación global, lo que tambien refleja sus esfuerzos continuos en mantenerse competitivos a nivel mundial.
 ![Gráfico de Ejemplo](graficos/ej4.png)
 ## 5. Impacto de la Cobertura de 5G y la Penetración de Internet
-- La cobertura promedio de **5G** es de aproximadamente **50%**, mientras que la penetración de **internet** alcanza casi el **70%**.
-- La correlación entre la cobertura de 5G y el número de startups es casi nula (**0.002**), indicando que la cobertura de 5G no parece tener un impacto directo en el crecimiento de startups.
+- La cobertura promedio de 5G es de aproximadamente 50%, mientras que la penetración de internet alcanza casi el 70%. Exploraremos cómo estos factores afectan el número de startups y empresas tecnológicas.
+- Vamos a proceder con el análisis detallado de cada planteamiento. ​​Impacto de la cobertura de 5G y la penetración de internet:
+- La correlación entre la cobertura de 5G y el número de startups es casi nula (0.002), lo que indica que la cobertura de 5G no parece tener un impacto directo en el crecimiento de startups.
+- De forma similar, la penetración de internet no muestra una relación clara con el número de empresas tecnológicas (-0.033).
+- La cobertura de 5G e Internet  no parecen estar relacionados con el crecimiento de startups o empresas tecnológicas, lo que indica que otros elementos pueden ser más determinantes en el ecosistema tecnológico de estos países.
 ![Gráfico de Ejemplo](graficos/ej5.png)
 ## 6. Distribución de Startups por País y Año
-- El crecimiento de startups puede variar significativamente entre China y Japón. Un análisis temporal revela patrones de crecimiento en la industria tecnológica.
+- El crecimiento de startups puede variar significativamente entre China y Japón. Un análisis temporal revela patrones de crecimiento en la industria tecnológica, por epocas de crisis.
 ![Gráfico de Ejemplo](graficos/ej6.png)
 ## 7. Relación entre el Número de Startups y la Inversión de Capital de Riesgo
 - Una correlación positiva entre el número de startups y la inversión en capital de riesgo puede indicar que a mayor inversión en startups, mayor es la cantidad de empresas emergentes.
