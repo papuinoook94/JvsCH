@@ -16,14 +16,60 @@
 - Japón y China compiten de manera muy pareja en términos de participación de mercado en diferentes sectores tecnológicos.
 ![Gráfico de Ejemplo](graficos/ej1.png)
 
-## 2. Inversión en Investigación y Desarrollo (I+D)
+## 2. Resultados y Análisis de la Inversión en I+D de China y Japón
 
-### Promedio
-- La inversión media en I+D es de **50.34 mil millones de USD** por año, con una alta desviación estándar, lo que indica una gran variabilidad entre los sectores o los años.
-- La inversión mínima registrada es de **1.05 mil millones de USD** y la máxima de **99.97 mil millones de USD**.
+#### . Estadísticas Descriptivas (por país y año)
+- **China:** Inversión media anual de **50.5 mil millones USD**.
+- **Japón:** Inversión media anual de **49.6 mil millones USD**.
+- Ambos países muestran una inversión considerable en I+D, con **alta variabilidad**, lo que refleja fluctuaciones significativas en sus presupuestos a lo largo de los años.
 
-### Japón vs. China
-- La inversión media en I+D de China es **50.23 mil millones de USD** y Japón **50.46 mil millones de USD**, lo que indica que ambos países invierten cantidades muy similares en I+D.
+#### . Percentiles  
+- **China:**
+  - Percentil 10: **11.58 mil millones USD**
+  - Mediana (Percentil 50 o Mediana): **50.59 mil millones USD**
+  - Percentil 90: **90.38 mil millones USD**
+  
+- **Japón:**
+  - Percentil 10: **10.89 mil millones USD**
+  - Mediana (Percentil 50 o Mediana): **49.60 mil millones USD**
+  - Percentil 90: **90.42 mil millones USD**
+     
+#### . Cuartiles
+
+- **China:**
+  - Cuartil 1 (Q1): **28.45 mil millones USD**
+  - Cuartil 2 (Q2) o Mediana: **50.59 mil millones USD**
+  - Cuartil 3 (Q3): **90.38 mil millones USD**
+
+- **Japón:**
+  - Cuartil 1 (Q1): **20.10 mil millones USD**
+  - Cuartil 2 (Q2) o Mediana: **49.60 mil millones USD**
+  - Cuartil 3 (Q3): **90.42 mil millones USD**
+
+- **Interpretación:** Ambos países tienen distribuciones de inversión similares, aunque **Japón** tiene valores más concentrados en los cuartiles bajos, mientras que **China** muestra una mayor dispersión en los valores altos.
+
+####  . Simetría (Asimetría)
+- **China:** Asimetría de **0.011**
+- **Japón:** Asimetría de **0.021**
+- Valores cercanos a 0 indican que los datos son **aproximadamente simétricos**, lo que significa que las inversiones en ambos países están balanceadas alrededor de la media, sin extremos marcados.
+
+####  . Variabilidad
+- La inversión mínima registrada fue de **1.05 mil millones USD** y la máxima llegó a **99.97 mil millones USD**.
+- Tanto China como Japón presentan **alta variabilidad** en sus inversiones en I+D, probablemente debido a fluctuaciones en los presupuestos o condiciones económicas.
+
+####  . Comparación
+- Aunque los valores promedio son similares entre ambos países, **China** parece tener mayor dispersión en los valores altos, mientras que **Japón** tiene una distribución más estable en los cuartiles inferiores.
+- Esto indica que, aunque ambos países están invirtiendo cantidades similares en I+D, China podría estar realizando inversiones más agresivas o irregulares en ciertos años, mientras que Japón tiene una inversión más constante.
+
+####  . Distribución de la Inversión
+- Los datos indican que tanto **China** como **Japón** tienen una **distribución simétrica**, es decir, la mayoría de las inversiones se agrupan alrededor de sus promedios.
+- Esto significa que no hay inversiones extremadamente altas o bajas que distorsionen los resultados.
+
+####  Conclusiones
+- Ambos países están invirtiendo cantidades similares en I+D, pero **China** podría estar realizando inversiones más agresivas o irregulares en ciertos años, mientras que **Japón** tiene una inversión más constante.
+- A pesar de las fluctuaciones, ambos países tienen una inversión balanceada, lo que refleja un enfoque constante hacia la innovación y el desarrollo tecnológico.
+- En general, la inversión en I+D es un pilar clave para la competitividad de ambos países en el sector tecnológico.
+![Gráfico de Ejemplo](graficos/ej2h.png)
 ![Gráfico de Ejemplo](graficos/ej2a.png)
 ![Gráfico de Ejemplo](graficos/ej2b.png)
 ![Gráfico de Ejemplo](graficos/ej2c.png)
