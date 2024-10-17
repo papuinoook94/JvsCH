@@ -3,7 +3,7 @@
 
 ## Descripción del Conjunto de Datos
 
-Este conjunto de datos contiene información sobre el crecimiento tecnológico, la inversión en investigación y desarrollo (I+D), el número de startups, y otros aspectos relevantes de la tecnología en China y Japón. Las columnas del conjunto de datos son las siguientes:
+Este conjunto de datos contiene información sobre el crecimiento tecnológico, la inversión en investigación y desarrollo (I+D), el número de startups, y otros aspectos relevantes de la tecnología en los grandes lideres de la innovacion mundial tecnologica como es China y Japón. Las columnas del conjunto de datos son las siguientes:
 
 - **Country**: País (China o Japón).
 - **Year**: Año de la observación.
