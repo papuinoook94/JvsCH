@@ -8,8 +8,8 @@
 
 ### Distribución por País
 - Japón aparece ligeramente más veces que China, pero ambos países están bien representados en el dataset.
-- Japón tiene una ventaja en sectores como **Software (30.94%)** y **Robótica  (27.98%)**.
-- China lidera en **Telecomunicaciones (30.29%)** y **Semiconductore (28.84%)**.
+- Japón tiene una ventaja en sectores como **Software (30.94%)** y **Semiconductores  (27.98%)**.
+- China lidera en **Telecomunicaciones (30.29%)** y **Robótica (28.84%)**.
 - En general, ambos países tienen participaciones de mercado similares en la mayoría de los sectores, con pequeñas variaciones.
 
 ### Liderazgo Tecnológico
